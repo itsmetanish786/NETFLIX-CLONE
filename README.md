@@ -1,5 +1,7 @@
 # NETFLIX-CLONE
  landing page of Netflix using HTML, CSS and JavaScript.
+
+ https://5884d03c-fd2e-457c-8d2f-d37736829811-00-24bf9ax42eowe.janeway.replit.dev/
  
 ![image](https://github.com/itsmetanish786/NETFLIX-CLONE/assets/131611994/02f5a18e-72dd-4b25-ae20-cf83a6afc710)
 ![image](https://github.com/itsmetanish786/NETFLIX-CLONE/assets/131611994/612ff557-5739-4dd0-9a85-4f5a4a1aa48f)
